@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is my first file.
+=======
+first file
+
+learning stash
+>>>>>>> 6096e0fa37f0efcc06b4da61263e1bd178bc94e7

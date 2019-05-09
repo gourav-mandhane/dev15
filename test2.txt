@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is second file
+=======
+second file
+CHanges made second iteration
+Edited this file to check poll scm 's working
+>>>>>>> 6096e0fa37f0efcc06b4da61263e1bd178bc94e7
